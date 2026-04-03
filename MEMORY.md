@@ -31,5 +31,5 @@
 - 規格書：`docs/superpowers/specs/2026-04-03-stock-investor-design.md`
 
 ## 重要約定
-- 語言：所有回覆使用繁體中文
+- **語言**：所有回覆與 Markdown 文件皆使用繁體中文
 - 架構：Monorepo（apps/web + apps/api + packages/shared）
