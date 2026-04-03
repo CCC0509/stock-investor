@@ -51,7 +51,7 @@ stock-investor/
 
 | 元件 | 位置 | 備註 |
 |------|------|------|
-| 前端 | Vercel | 免費、CDN、自动部署 |
+| 前端 | Vercel | 免費、CDN、自動部署 |
 | 後端 API | Raspberry Pi 5 | 自架、反向代理 |
 | 資料庫 | Raspberry Pi 5 | PostgreSQL |
 
@@ -200,7 +200,7 @@ interface Transaction {
 
 - **設計系統**: Tailwind CSS + shadcn/ui
 - **色調**: 專業金融風格（深色/淺色模式）
-- **圖表**: 統一一致的数据視覺化
+- **圖表**: 統一一致的數據視覺化
 
 ---
 
